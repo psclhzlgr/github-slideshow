@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*Als de kat van huis* is
+**dansen de muizen**
 Use the left arrow to go back!
